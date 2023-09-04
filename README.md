@@ -9,6 +9,10 @@
 ![image](https://github.com/Sunil0517/Food-Ordering-System/assets/75488591/cb832cce-4201-4eda-89c5-cd23de9d82d0)
 
 
+3.User case From Delivery partner perspective
+![image](https://github.com/Sunil0517/Food-Ordering-System-Design/assets/75488591/e061e6a6-2016-4273-9f28-a4a26005ca96)
+
+
 
 3.Client Server Architecture (basic)
 ![image](https://github.com/Sunil0517/Food-Ordering-System/assets/75488591/db954f3d-d16d-412b-bb90-c1de3b3fbf60)
